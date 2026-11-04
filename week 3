@@ -1,0 +1,74 @@
+Homework: A documentation edit
+ 
+Base text: Guide for Task A — Create a private repository with a README
+Word count: 212
+ 
+Six Style Rules (Before / After)
+ 
+1. Rule 1: Use active voice for instructions
+Before: A new repository is created by you.
+After: Create a new repository.
+
+2. Rule 2: Keep sentences short (one action per sentence)
+Before: You can click the plus icon at the top right and then choose new repository to start the task.
+After: Click the + icon in the top‑right corner. Select New repository.
+
+3. Rule 3: Use imperative verbs for step openings
+Before: The next thing you do is type your repository name.
+After: Enter your repository name.
+
+4. Rule 4: Avoid vague words; name UI elements exactly
+Before: Pick the secret option for the repo.
+After: Select the Private option.
+
+5. Rule 5: Remove redundant explanatory words
+Before: In order to add a README file, you need to tick the small box.
+After: Check Add a README file.
+
+6. Rule 6: Use consistent technical terms
+Before: folder / code space
+After: repository
+ 
+Revised Guide
+ 
+Prerequisites
+ 
+1. A signed‑in GitHub account.
+
+2. A desktop web browser.
+
+3. A valid repository name.
+ 
+Steps
+ 
+1. On the GitHub homepage, click the + icon in the top‑right corner. Select New repository.
+
+2. Enter your repository name in the name field.
+
+3. Choose Private to set repository visibility.
+
+4. Check Add a README file.
+
+5. Click Create repository.
+ 
+Result Check
+ 
+Open your repository page. Confirm the README.md file appears on the main page.
+ 
+Record of Six Changes
+ 
+1. Changed passive sentence “A new repository is created by you” to active imperative “Create a new repository.”
+
+2. Split one long mixed sentence into two short separate action sentences.
+
+3. Rewrote “The next thing you do is type your repository name” to “Enter your repository name.”
+
+4. Replaced vague “secret option” with exact UI label “Private option.”
+
+5. Cut redundant phrase “In order to, you need to” and simplified the sentence.
+
+6. Unified inconsistent “folder / code space” to standard term “repository.”
+ 
+Peer Comment
+ 
+This guide follows clear short steps. All button names match the GitHub interface. You can add one small warning: repository names cannot contain spaces.
